@@ -1,5 +1,5 @@
 # Ex.No: 9 Implementation of Alpha Beta Pruning 
-#### Date:                                                                   
+#### Date: 04.10.2024                                                            
 #### Register Number : 212221240011
 
 ### Aim: 
